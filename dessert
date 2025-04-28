@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🍰Dessert Shop🍪</title>
+</head>
+
+
+<style>
+  body {
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+  }
+
+
+  h1 {
+    font-size: 50px;
+    color: blueviolet;
+    background-color: rgb(230, 132, 148);
+    border-radius: 4px;
+    border: 1px solid blueviolet;
+  }
+
+
+  .red {
+    color: rgb(228, 42, 42);
+    "
+
+
+  }
+
+
+  .green {
+    color: rgb(51, 214, 53);
+  }
+
+
+  .blue {
+    color: rgb(42, 36, 231);
+  }
+
+
+  .class1 {
+    font-size: larger;
+    border: 1px solid red;
+  }
+
+
+  .class2 {
+    font-size: larger;
+  }
+
+
+  .violet {
+    color: blueviolet;
+  }
+</style>
+
+
+<body>
+  <h1>🍰Dessert Shop🍪</h1>
+  <img
+    src="https://www.tasteofhome.com/wp-content/uploads/2017/09/Springtime-Beignets-Berries_EXPS_THAM17_199933_C11_10_1b.jpg"
+    alt="dessert" width="300px" height="350px">
+  <p class="class2"><strong>We create <span class="red">beautiful</span> , <span class="green">creative</span> , and
+      <span class="blue">healthy</span>
+      desserts.</strong></p>
+  <hr />
+  <h1>
+    <span>What do you want?</span></h2>
+    <ul class="class1">
+
+
+      <li class="class2">Cookies: <strong>0.50$</strong>each</li>
+      <li class="class2">Cakes and pies: <strong>5.00$</strong>each</li>
+      <li class="class2">Chocolate: <strong>2.00$</strong>each</li>
+    </ul>
+
+
+    <h1>
+      <strong><span class="violet">Opening Hours⏰</span></strong></h3>
+      <p class="class1"><strong>🟢Monday to
+          Thursday:</strong>
+        7:45a.m.- 9:45p.m.</p>
+      <p class="class1"><strong>🟢Friday:</strong> 7:45a.m.- 4:30p.m.</p>
+      <p class="class1"><strong>🔴Saturday:</strong> 9:00a.m.- 9:45p.m.</p>
+      <h1>
+        <strong>
+          <spa class="violet">Payment Methods💳</span>
+        </strong></h4>
+        <p>We accept:</p>
+        <ul class="class1">
+          <li>💷Cash</li>
+          <li>🏧ATM cards </li>
+          <li>💳Credit cards</li>
+          <li>💎American express </li>
+          <li>🌎Discovery </li>
+        </ul>
+        <p><a href="https://maps.app.goo.gl/4nc7v9vxCvteMihy7">Find us on Google Maps📌</a></p>
+        </span>
+</body>
+
+
+</html>
+
