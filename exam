@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .container1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .box1 {
+        width: 100cqw;
+        height: 200px;
+        background-color: black;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .container {
+        height: fit-content;
+        width: 100cqw;
+        display: flex;
+        
+        gap: 20px;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .yale {
+        width: 450px;
+        height: 500px;
+        background-color: orange;
+        border-radius: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .p2{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: black;
+        width: 450px;
+        height: fit-content;
+        flex-wrap: wrap;
+    }
+    .p3{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 450px;
+        height: fit-content;
+        color: white;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        flex-wrap: wrap;
+    }
+</style>
+
+<body>
+    <div class="container1">
+        <div class="box1"><strong>11a M.Maral</strong></div>
+        <div class="p">
+            <strong> Student profile </strong>
+        </div>
+        <div class="container">
+            <div class="yale"> <img
+                    href="https://www.ccl.org/wp-content/uploads/2020/11/how-to-get-more-women-c-the-suite-ccl-center-for-creative-leadership.jpg.webp"
+                    width="400px" height="200px">
+                   <span class="p2"><strong>Jane Doe</strong></span>
+                   <span class="p2">Student</span>
+                   <span class="p3"> Yo are behkhd ghfjnhgf lghfdsu itnbfkl</span>
+            </div>
+            <div class="yale"> <img
+                    href="https://www.ccl.org/wp-content/uploads/2020/11/how-to-get-more-women-c-the-suite-ccl-center-for-creative-leadership.jpg.webp"
+                    width="400px" height="200px">
+                   <span class="p2"><strong>Jane Doe</strong></span>
+                   <span class="p2">Student</span>
+                   <span class="p3"> Yo are behkhd ghfjnhgf lghfdsu itnbfkl</span>
+            </div>
+            <div class="yale"> <img
+                    href="https://www.ccl.org/wp-content/uploads/2020/11/how-to-get-more-women-c-the-suite-ccl-center-for-creative-leadership.jpg.webp"
+                    width="400px" height="200px">
+                   <span class="p2"><strong>Jane Doe</strong></span>
+                   <span class="p2">Student</span>
+                   <span class="p3"> Yo are behkhd ghfjnhgf lghfdsu itnbfkl</span>
+            </div>
+            <div class="yale"> <img
+                    href="https://www.ccl.org/wp-content/uploads/2020/11/how-to-get-more-women-c-the-suite-ccl-center-for-creative-leadership.jpg.webp"
+                    width="400px" height="200px">
+                   <span class="p2"><strong>Jane Doe</strong></span>
+                   <span class="p2">Student</span>
+                   <span class="p3"> Yo are behkhd ghfjnhgf lghfdsu itnbfkl</span>
+            </div>
+        </div>
+</body>
+
+</html>
